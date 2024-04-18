@@ -11,7 +11,7 @@ class MaxHeap{
         return this.Heap[index*2 + 1]
     }
     rightChild(index){
-        return this.Heap[index*2 + 1]
+        return this.Heap[index*2 + 2]
     }
 
     getParentIndex(index){

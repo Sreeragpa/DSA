@@ -88,7 +88,10 @@ class BST{
             queue.push(curr.right)
         }
     }
+    return queue;
    }
+
+
 }
 
 // inOrder(10){
@@ -153,6 +156,8 @@ bst.insert(15)
 bst.insert(3)
 bst.insert(7)
 // bst.postOrder(bst.root)
-bst.BFS()
-console.log(bst.search(bst.root,897));
+// console.log(bst.BFS());
+console.log(bst.search(bst.root,5));
+
+bst.inOrder(bst.root)
 // console.log(bst);

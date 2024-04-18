@@ -129,22 +129,22 @@ class SinglyLinkedList{
         pre.next = toDel.next
         this.length--;
     }
-  
+    
     reverse(){
         let currNode = this.head;
-        let nextNode;
-        let prev = null;
+        let prevNode = null;
+        let nextNode ;
         this.head = this.tail;
         this.tail = currNode;
 
         while(currNode!==null){
             nextNode = currNode.next;
-            currNode.next = prev;
-            prev = currNode;
-            currNode = nextNode 
+            currNode.next = prevNode;
+            prevNode = currNode;
+            currNode = nextNode;
         }
-    
     }
+    
 
     printme(){
         let temp = this.head;
@@ -165,7 +165,24 @@ list.push(30);
 
 
 
-list.reverse2()
+list.reverse()
 // list.printme()
 console.log(list);
 
+
+
+// reverse(){
+//         let currNode = this.head;
+//         let nextNode;
+//         let prev = null;
+//         this.head = this.tail;
+//         this.tail = currNode;
+
+//         while(currNode!==null){
+//             nextNode = currNode.next;
+//             currNode.next = prev;
+//             prev = currNode;
+//             currNode = nextNode 
+//         }
+    
+//     }

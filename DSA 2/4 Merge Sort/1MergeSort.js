@@ -12,10 +12,10 @@ function merge(arr1,arr2){
             j++;
         }else{
             if(i<arr1.length){
-                result.push(arr1[i])
+                result.push(arr1[i]);
                 i++;
             }else{
-                result.push(arr2[j])
+                result.push(arr2[j]);
                 j++;
             }
         }
@@ -34,6 +34,7 @@ function mergeSort(arr){
 // let arrr1 = [8,9,12];
 // let arrr2 = [1,2,3];
 // console.log(merge(arrr2,arrr1));
+
 
 let arr1 = [2,4,1,48,21,0,98];
 
