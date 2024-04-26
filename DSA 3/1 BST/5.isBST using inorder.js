@@ -79,10 +79,9 @@ class BST{
     // const inorder = this.inOrder(this.root);
     // return inorder.sort((a,b)=>a-b) == inorder;
 
-    if(temp<node.val){
-
-    }
    }
+
+   
 
 
 
