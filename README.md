@@ -3,6 +3,7 @@
   <h2>Contents</h2>
   <ul>
     <li><a href="https://github.com/Sreeragpa/DSA/blob/master/README.md#what-are-data-structures">What are Data Structures?</a></li>
+    <li><a href="https://github.com/Sreeragpa/DSA/blob/master/README.md#operations-on-data-structures">Operations On Data Structures</a></li>
   </ul>
 </div>
 <h3>What are Data Structures?</h3><br>
