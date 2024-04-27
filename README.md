@@ -2,7 +2,7 @@
 <div>
   <h2>Contents</h2>
   <ul>
-    <li>What are Data Structures?</li>
+    <li><a href="https://github.com/Sreeragpa/DSA/blob/master/README.md#what-are-data-structures">What are Data Structures?</a></li>
   </ul>
 </div>
 <h3>What are Data Structures?</h3><br>
