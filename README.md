@@ -1,3 +1,4 @@
+<div align="center"><h1>Data Structures</h1></div>
 <h3>What are Data Structures?</h3><br>
 <span>Data structure is a storage that is used to store and organize data. It is a way of arranging data on a computer so that it can be
 accessed and updated efficiently. Each data structure is good and is specialized for its own thing.</span>
