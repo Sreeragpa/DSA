@@ -22,6 +22,34 @@ accessed and updated efficiently. Each data structure is good and is specialized
 <h3></h3><br>
 <h3>Arrays</h3><br>
 <span>An array is a collection of items of some data type stored at contiguous (one after another) memory locations.</span>
+<span>Time Complexity</span>
+<table>
+  <tr>
+    <th>Algorithm</th>
+    <th>Average case</th>
+    <th>Worst case</th>
+  </tr>
+  <tr>
+    <td>Access</td>
+    <td>O(1)</td>
+    <td>O(1)</td>
+  </tr>
+  <tr>
+    <td>Search</td>
+    <td>O(n)</td>
+    <td>O(n)</td>
+  </tr>
+  <tr>
+    <td>Insertion</td>
+    <td>O(n)</td>
+    <td>O(n)</td>
+  </tr>
+  <tr>
+    <td>Deletion</td>
+    <td>O(n)</td>
+    <td>O(n)</td>
+  </tr>
+</table>
 
 
 
