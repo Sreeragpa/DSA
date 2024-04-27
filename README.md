@@ -5,9 +5,17 @@ accessed and updated efficiently. Each data structure is good and is specialized
 
 <b></b><br>
 <h3>Operations On Data Structures</h3><br>
-Insertion: Add a new data item in a given collection of items such as us adding the apple item in memory.
-Deletion: Delete data such as remove mango from our list.
-Traversal: Traversal simply means accessing each data item exactly once so that it can be processed.
-Searching: We want to find out the location of the data item if it exists in a given collection.
-Sorting: Having data that is sorted.
-Access: How do we access this data that we have on our computer?
+<ul>
+  <li>Insertion: Add a new data item in a given collection of items such as us adding the apple item in memory.</li>
+  <li>Deletion: Delete data such as remove mango from our list.</li>
+  <li>Traversal: Traversal simply means accessing each data item exactly once so that it can be processed.</li>
+  <li>Searching: We want to find out the location of the data item if it exists in a given collection.</li>
+  <li>Sorting: Having data that is sorted.</li>
+  <li>Access: How do we access this data that we have on our computer?</li>
+</ul>
+
+
+
+
+
+
