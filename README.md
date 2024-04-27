@@ -51,6 +51,8 @@ accessed and updated efficiently. Each data structure is good and is specialized
   </tr>
 </table>
 
+<span>The space complexity of an array for the worst case is O(n)</span>
+
 
 
 
