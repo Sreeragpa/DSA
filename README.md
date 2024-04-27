@@ -1,8 +1,7 @@
 <h3>What are Data Structures?</h3><br>
-Data structure is a storage that is used to store and organize data. It is a way of arranging data on a computer so that it can be
-accessed and updated efficiently. Each data structure is good and is specialized for its own thing.
+<span>Data structure is a storage that is used to store and organize data. It is a way of arranging data on a computer so that it can be
+accessed and updated efficiently. Each data structure is good and is specialized for its own thing.</span>
 <img src="https://github.com/Sreeragpa/DSA/assets/84066738/7a5a356d-16fe-4960-821d-1ad8706c1613"></img>
-<b></b><br>
 <h3>Operations On Data Structures</h3><br>
 <ul>
   <li>Insertion: Add a new data item in a given collection of items such as us adding the apple item in memory.</li>
@@ -12,6 +11,9 @@ accessed and updated efficiently. Each data structure is good and is specialized
   <li>Sorting: Having data that is sorted.</li>
   <li>Access: How do we access this data that we have on our computer?</li>
 </ul>
+<h3></h3><br>
+<h3>Arrays</h3><br>
+<span>An array is a collection of items of some data type stored at contiguous (one after another) memory locations.</span>
 
 
 
